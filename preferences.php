@@ -1,4 +1,5 @@
 <?php
+// Snippet A: The "Cookie Setter"
 // Check if the form has been submitted
 if (isset($_POST['save_settings'])) {
 

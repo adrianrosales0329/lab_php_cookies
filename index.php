@@ -1,4 +1,5 @@
 <?php
+// Snippet B: The "Cookie Reader"
 // 1. Set Default values (if no cookie exists)
 $current_name = "Guest";
 $current_theme = "light";
